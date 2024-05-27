@@ -8,7 +8,7 @@
 <h3 align="left">Programming Languages:</h3>
 
 <p align="left">
-    src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/python.svg" width="40" height="40" title="python" />
+    <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/python.svg" width="40" height="40" title="python" />
     <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/go.svg" width="40" height="40" title="go" />
     <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/java.svg" width="40" height="40" title="java" />
     <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/typescript.svg" width="40" height="40" title="typescript" />
